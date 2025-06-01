@@ -1,2 +1,1 @@
-# simple-text-editor
-A simple text editor using html,css and javascript
+2023T01845 - L.L.W.G Alwis
